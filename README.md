@@ -8,3 +8,5 @@ Model diagnostics were conducted to evaluate the significance of each predictor.
 Further tests, including the global F-test and the Ramsey-RESET test, helped assess model specification and the necessity for additional transformations. To address specification issues, we log-transformed the price variable, which improved the model fit and reduced skewness in the price distribution.
 
 Our final model was a refined version that accounted for multicollinearity and specification errors, enabling a more accurate and interpretable analysis of the factors influencing yacht pricing.
+
+**Disclaimer**: This analysis was conducted as part of a team project for the university course *Econometrics I*. Please note that, due to academic integrity policies, the full documentation for this project cannot be uploaded or shared.
