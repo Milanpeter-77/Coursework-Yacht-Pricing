@@ -1,4 +1,4 @@
-# Coursework-Yacht-Pricing
+# Coursework - Yacht Pricing
 In this analysis, we examined the factors influencing yacht and motorboat pricing, using the "yacht_pricing" dataset. The primary goal was to build a regression model in R to explain the prices of yachts (in euros) based on various characteristics, including boat type, year built, condition, length, displacement, number of cabins and beds, fuel capacity, and engine hours.
 
 Our dataset contained 311 observations. After loading it into R, we transformed certain variables, such as boat type and condition, into factors due to their categorical nature. We removed some predictors, like boat width and depth, due to multicollinearity issues, as length sufficiently represented the boat’s dimensions.
